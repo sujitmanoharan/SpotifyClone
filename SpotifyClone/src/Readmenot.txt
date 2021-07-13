@@ -10,3 +10,5 @@ day 5 complete
 Day 6 complete
 .
 Day 7 updated
+
+Day 8 lets go put it on the resume
